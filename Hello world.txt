@@ -1,6 +1,4 @@
 print("Hello world")
 print("Hello Olga")
-
-
-
-面面面面面面面面
+print("Hello")
+print("Hello Piter")
